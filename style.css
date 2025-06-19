@@ -1,0 +1,37 @@
+.bir-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 200px;
+}
+.tell{
+      color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.tell:hover{
+  text-decoration: wavy;
+}
+.btn-1{
+    width: 130px;
+    height: 40px;
+    background-color:  aqua;
+    border: 1px solid rgb(0, 255, 170);
+    border-radius: 100px;
+    margin-left: 30px;
+}
+.input,
+.input-2,
+.input-3{
+    margin-top: 10px;
+}
+.btn-2{
+        width: 130px;
+    height: 40px;
+    background-color:  aqua;
+    border: 1px solid rgb(0, 255, 170);
+    border-radius: 100px;
+}
+.mahorat-btn{
+    margin-top: 10px;
+}
